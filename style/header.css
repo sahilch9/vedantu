@@ -1,0 +1,64 @@
+#home_page .heading {
+    display: inline-flex;
+}
+
+#home_page .heading .home_icon {
+    margin-top: 52px;
+    margin-left: 150px;
+    width: 115px;
+    height: 53px;
+    background: transparent url("../img/Group 10330.png") 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#home_page .heading .mid_sec {
+    margin-top: 65px;
+    margin-left: 100px;
+    width: 555px;
+    height: 25px;
+    opacity: 1;
+    display: inline-flex;
+}
+
+#home_page .heading .mid_sec .mid_content {
+    margin-left: 57px;
+    width: 71px;
+    height: 24px;
+    text-align: center;
+    font: normal normal medium 17px/33px Poppins;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+    display: inline-flex;
+}
+
+#home_page .heading .mid_sec .mid_content .mid_img {
+    margin-left: 13px;
+    margin-top: 5px;
+    width: 17px;
+    height: 8px;
+    opacity: 1;
+    display: inline-flex;
+}
+
+#home_page .heading .home_contact {
+    margin-top: 56px;
+    margin-left: 150px;
+    width: 142px;
+    height: 41px;
+    background: #0670f4 0% 0% no-repeat padding-box;
+    border-radius: 9px;
+    opacity: 1;
+}
+
+#home_page .heading .home_contact p {
+    margin-left: 32px;
+    margin-top: 11px;
+    /* width: 72px; */
+    height: 19px;
+    text-align: left;
+    font: normal normal medium 13px/34px Poppins;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+}

@@ -1,0 +1,39 @@
+.offer .card {
+  margin-left: 20px;
+}
+
+.offer .card .card_logo {
+  margin-left: 124px;
+  width: 94px;
+  height: 94px;
+
+  opacity: 1;
+}
+.offer .card .card_head {
+  margin-top: 28px;
+  margin-left: 112px;
+  width: 118px;
+  height: 24px;
+  text-align: center;
+  font: normal normal medium 20px/33px Gilroy ☞;
+  letter-spacing: -0.32px;
+  color: #fcd02c;
+  opacity: 1;
+}
+.offer .card .card_detail {
+  margin-top: 28px;
+  margin-left: 20px;
+  width: 357px;
+  height: 51px;
+  text-align: center;
+  font: normal normal medium 18px/27px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 0.7;
+}
+
+.offer .card2 {
+  margin-left: 392px;
+  margin-top: 62px;
+  display: inline-flex;
+}
